@@ -1,0 +1,60 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>Locating Research Materials Using Meta-Catalogs: WorldCat</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>05a96511-00c2-4d1f-8566-c0c9790644e2</md:uuid>
+</metadata>
+	<content>
+		<section id="intro">
+			<title>Introduction</title>
+			<para id="intro1">WorldCat is a system designed to help you to browse the collections of over 16,000 libraries world wide.  You can also order books the books you find on WorldCat from other libraries through Interlibrary loan.  WorldCat is an excellent resource for finding out what is out there as well as getting it delivered to you here.</para>
+		</section>
+		<para id="access1"><title>Accessing WorldCat</title>Fondren provides three computer labs on the first floor of the library. You must be an enrolled student at Rice to access the internet in these areas. If you are a student at Rice and have not yet registered with to use the internet resources available to you, you may do so at the <link url="http://www.owlnet.rice.edu/">OwlNet</link>. WorldCat is available to everyone, however, on the computers surrounding the information desk.   </para>
+		<para id="access2">WorldCat can be accessed from any internet connection by visiting the website for Rice University. Once you find the home page for Rice, click on General Public and then on Fondren. From the Fondren home page, click on Catalog and you will see a list of options on the right side of the screen. Select Other Library Catalogs and then scroll down a bit, you will see WorldCat under the Major Collective Catalogs heading.</para>
+		<para id="search1"><title>How WorldCat Searches</title>First, let’s take a quick look at what WorldCat looks for when you begin a search. Here is an example of one entry among thousands in the index.<figure id="fig1">
+				<media id="idm3655456" alt=""><image src="../../media/wdct1.bmp" mime-type="image/bmp"/></media>
+			</figure>The information presented above may be viewed as a list of terms you could use to locate this particular work through WorldCat.  There are a few things we should take not of here: </para>
+		<para id="search2">First, WorldCat searches for the information you see above in specific ways.  For example, if you were to do a title search for Douglas Sladen, you would not receive an entry for "Oriental Cairo".  This seems simple (and possibly silly) but it brings to an important point.  Notice how everything in this entry is worded, that is how WorldCat sees it in the index.  If you want the system to locate something for you, then you must learn what it looks for and how it looks for it.</para>
+		<para id="search3">Second, you can find this work through any one of thousands of combination of keywords, most of which you see here in the entry.  Make a note of the way in which the words are categorized now, it will be important later.</para>
+		<section id="bsearch">
+			<title>Basic Search</title>
+			<para id="b1"/>
+		</section>
+		<para id="bsearch1">Lets take a look at our basic search options.<figure id="fig2">
+				<media id="idm10979440" alt=""><image src="../../media/wdct2.bmp" mime-type="image/bmp"/></media>
+			</figure>Notice the black circles to the right of some of the text boxes, these will link you to more information about what to put in them.  We have collected that information for you here.</para>
+		<para id="bsearch2"><title>Keyword</title><figure id="fig3">
+				
+				<media id="idp3613616" alt=""><image src="../../media/wdct3.bmp" mime-type="image/bmp"/></media>
+			</figure></para>
+		<para id="bsearch3"><title>Author</title><figure id="fig4">
+				<media id="idm9508064" alt=""><image src="../../media/wdct4.bmp" mime-type="image/bmp"/></media>
+			</figure></para>
+		<para id="bsearch4"><title>Title</title><figure id="fig5">
+				<media id="idm10777392" alt=""><image src="../../media/wdct5.bmp" mime-type="image/bmp"/></media>
+			</figure></para>
+		<para id="bsearch5"><title>ISBN Number</title><figure id="fig6">
+				<media id="idm2163664" alt=""><image src="../../media/wdct6.bmp" mime-type="image/bmp"/></media>
+			</figure></para>
+		<para id="bsearch6"><title>Year</title><figure id="fig7">
+				<media id="idm1833760" alt=""><image src="../../media/wdct7.bmp" mime-type="image/bmp"/></media>
+			</figure></para>
+		<para id="bsearch7"><title>Getting Started</title>Follow these directions closely when entering your information about the work you are looking for.  A few seconds of thought at this point will save you many minutes of browsing through entries you probably didn't have to see.  </para>
+		<para id="bsearch8">Try to locate "Oriental Cairo" by title, author, subject and year to get a feel for what each search will produce separately.  </para>
+		<section id="a">
+			<title>Advanced Search</title>
+			<para id="advan"/>
+		</section>
+		<para id="advan1">Let's take a look at the Advanced Search options to get a feel for the how WorldCat can refine your search for you and save you time and effort.  Here is a look at their Advanced Search Page.<figure id="fig8">
+				<media id="idm2735072" alt=""><image src="../../media/wdct8.bmp" mime-type="image/bmp"/></media>
+			</figure>Select the arrow box to the right of the text box across from Search For: and you will find a much longer list of options than with the basic search.  If you are using the Advanced Search option, then you probably know a little more about what you need than the title or author's name.  These options will become more pertinent as you begin to look for a wider variety of works.  For now we will just explore how the Advanced Search can help narrow your results for organizational purposes.</para>
+		<para id="advan2"><title>Different ways of looking for your subject</title>The most productive uses of the Advanced Search for the beginner are those having to do with the Subject Search and with limiting the media you are searching for.  We will take a look at both options here. </para>
+		<para id="advan3">Select the arrow box to the right of the keyword text box, anyone will be fine.  Scroll down to the Subject heading and then look for named person, highlight that option.  Now enter the our author's name and select Search.<figure id="fig9">
+				<media id="idm2462304" alt=""><image src="../../media/wdct99.bmp" mime-type="image/bmp"/></media>
+			</figure>We see our biography, the very thing a Named Person search should produce.  We also find that Douglas Sladen's personal letters exist in an Archive somewhere.  Select the title heading to find out more.<figure id="fig10">
+				<media id="idm1948656" alt=""><image src="../../media/wdct10.bmp" mime-type="image/bmp"/></media>
+			</figure></para>
+		<para id="advan4">We have just located two personal letters of Douglas Sladen, we know when they were written, to whom and what subjects they address. This is the kind of document that can turn a mediocre research project into something really interesting.  </para>
+		<para id="advan5"><title>Limiting the media your searching for</title>Let's say you just need a picture of your author or you just want to find out what kinds of internet resources might list him or her.  Scroll down to the words Limit Type To: and observe the media icons.  Lets check Internet Resources and Visual Materials.<figure id="fig11">
+				<media id="idm10944400" alt=""><image src="../../media/wdct11.bmp" mime-type="image/bmp"/></media>
+			</figure>No pictures, but we do have two online resources to check out.The important thing to remember here is that narrowing your options can sometimes open up doors that you may not expect.  Now that you have some experience with specifying what you need, try experimenting with the different options just to see what else you can find.  </para>
+	</content>
+</document>

@@ -1,0 +1,158 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Accessing Subscription-Based Electronic Resources</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a0264977-f85c-4e4e-93fd-d1eebeccebe2</md:uuid>
+</metadata>
+  <content>
+    <para id="access1"><title>Introduction</title>
+      <!-- Insert module text here -->Many online research sources, such as indexes, databases, and journals, are available only through subscription.  Each year
+      libraries pay significant fees to bring these resources to their patrons.  To use fee-based online
+      resources, users must 
+      be validated as belonging to an institution that has purchased a license.  Vendors often
+      restrict access to resources by IP (Internet Protocol) address, the address for your
+      institution's network. 
+      If your institution has paid for a subscription to an electronic journal, database, or index, 
+      there are several ways that you can potentially access it. You can:</para>
+    <list id="accesschoices"><item>Use the electronic resource at the library.</item>
+      <item>Gain access from an office, dorm room, or other room on campus, provided
+        that you are connected to the campus network.  You can use either a wireless or a hard wired
+        connection.</item>
+      <item>Access the resource from off campus via a proxy server</item>
+      <item>Connect to the resource from off campus via a VPN (Virtual Private Network)</item>
+
+    </list>
+    <para id="ac2">Many people prefer to do their research from home rather than having to go into
+      the library.  Most universities provide a way for students, faculty and staff to access
+      resources from off-campus; some public libraries, such as the <link url="http://www.mplib.org/browser_new.asp">Minneapolis Public Library</link>, also
+      provide access to electronic resources from outside the library building. 
+      In this module, we will focus on accessing electronic resources through VPN or
+      a proxy server.  For purposes of demonstration, we will discuss how everything works at Rice
+      University, but a similar process will apply at most other institutions.
+      Check
+      with your institution's library and information technology department to get the specifics.
+    </para>
+   <!-- <para id="access2">
+      The
+      network at Rice University has established memberships with many online resources for
+      research, such as the databases for online journals and newspapers. These resources are
+      available for enrolled students from any computer in the labs or from your own device once you
+      have created an account for yourself on the network. In order to utilize the online resources
+      at Rice you must register with the Information Technology (IT) Department. Once you have
+      registered you may access the network and its resources on or off campus whenever you like.
+      Here, we will go through the process of establishing an account for on campus use in the
+      computer lab or with a laptop and then updating that account for off campus use. </para>
+    <section id="reg">
+      <name>Registering with the Network at Rice</name>
+      <para id="reg1">
+        <name/>When you registered as an enrolled student at Rice you received an ID card with a
+        seven digit number just to the right of your picture. You will be using this number to
+        identify yourself throughout this process so keep it handy. We will begin with the basic
+        registration with Owlnet and then continue on to more specific needs, such as laptop or home
+        computer registration. </para>
+      <section id="owl">
+        <name>Owlnet</name>
+        <para id="owl1">Owlnet is an educational computing network used by Rice students and faculty
+          to communicate, access online resources, and work with computer tools. You will need to go
+          through the basic registration process with Owlnet to create an account. After this is
+          completed you can update your account to expand your access or register to use a computer
+          other than those in the labs. </para>
+        <para id="owl2">
+          <name>Registering with Owlnet</name>Visit the <link src="http://www.rice.edu/">Rice
+            homepage</link> and select the Undergrads option under the Gateways heading.<figure
+            id="fig1">
+            <media type="image/bmp" src="acc1.bmp"/>
+          </figure>You will see a set of text boxes with scroll buttons on the bottom left, select
+          the arrow next the box that reads Student Computing and scroll down until you have
+          highlighted Student Computing at the bottom of the list.<figure id="fig2">
+            <media type="image/bmp" src="acc2.bmp"/>
+          </figure>You will find the IT webpage entitled Computing Resources for Students. You may
+          wish to bookmark this page, it is a valuable resource for any student wishing to access
+          the Network resources at Rice. </para>
+        <para id="owl3">Scroll down to the paragraph under the Apply heading and you will see a link
+          in blue like this one <link src="http://apply.rice.edu/">http://apply.rice.edu/</link>.
+          Select it and then the Account Application link on the next page and you will be taken to
+          the online registration page. You will be guided by prompts from there on and when you
+          have completed the process you will have access to most of the resources offered by Rice
+          to enrolled students.</para>-->
+<!--        <section id="laptop">
+          <name>Registering your Laptop with the Network on Campus</name>
+          <para id="laptop1">
+            <name/>IT has provided Rice students with a comprehensive guide to registering their
+            computers with the network from any location at their <link
+              src="http://www.rice.edu/it//network/campusnet/connect/index.html">Connect to the
+              Campus Network</link> page. Once you have gained access we recommend visiting this page
+            to update your access or to register alternate devices, but for now here are the basic
+            steps for getting online in the first place.</para>
+          <para id="laptop2">
+            <name>Physical Connection</name>If you would like to access the network with your own
+            device (IT's term for computer) then you will have to register it seperately. To do
+            this, just visit a computer lab in Fondren, locate an Ethernet cable on one of the
+            tables and plug it into your computer BEFORE you turn it on. Then boot up and you should
+            be guided through the process. If not, visit the information desk in Fondren or give the
+            IT staff a call and they should be able to help, 713.348.4357. Once you have registered
+            the network will recognize your device whenever you connect on campus. </para>
+          <para id="laptop3">
+            <name>Wireless Connection</name>If your computer is already configured for wireless
+            access and has a working wireless card you should automatically be taken to the
+            registration page when you open your browser. You will be prompted to accept a security
+            certificate, once you have done this you will be taken through the process of
+            registering your device. </para>
+          <para id="laptop4">Once this is complete you will have access to the wireless network from
+            any location on campus in which wireless is offered. To locate these areas, return to
+            the <link src="http://www.rice.edu/it/help/start/student_resources.html">IT
+            homepage</link> and select the On-Campus option by placing the curse over the Network
+            Access heading, then select the Wireless Network option. You will be offered an update
+            on the wireless project at Rice including the updated locations of wireless access.</para>-->
+          <section id="proxy">
+            <title>Accessing Online Resources Through a Proxy Server</title>
+            <para id="off1">A proxy server allows people to access restricted online resources from outside their
+              campus or work network.  As the word "proxy" suggests, a proxy
+              server is a piece of software that goes between your computer 
+              and a web server. It verifies that you are a member of your institution and thus
+              entitled to use web-based licensed resources from off-campus by requiring you to enter
+              a username and password.  
+            </para>
+    <para id="off2">In order to use the proxy server, you will need to configure your web browser so that it
+      points to the proper server in the proxy settings.  Like many other universities, Rice gives
+      detailed instructions for <link url="http://proxy.rice.edu/">configuring the proxy server</link>. Each browser (such as Firefox and Internet
+      Explorer) requires a slightly different configuration process,
+      but once you get everything set up you typically do not have to configure the browser again. 
+      For example, to set up Internet Explorer to work for Rice users, you would use the following
+      process (replacing the address for Rice's proxy server with that of your own institution):
+ 
+         
+  <!--   With a properly-configured web browser, the proxy server allows
+           campus users to access many web-based electronic resources (such as online journals or
+              databases) that are restricted. To begin the process
+              visit the Rice homepage and enter proxy into the search text box at the top right hand
+              side of the screen, then select Search. <figure id="fig3">
+                <media type="image/bmp" src="acc3.bmp"/>
+              </figure> The Proxy server homepage will be the first link to come up. <figure
+                id="fig4">
+                <media type="image/bmp" src="acc4.bmp"/>
+              </figure>select the Setting up the Proxy Server option from the list on the left hand
+              side of the screen.<figure id="fig5">
+                <media type="image/bmp" src="acc5.bmp"/>
+              </figure>--><figure id="fig6">
+                <media id="idp7640224" alt=""><image src="../../media/acc6.bmp" mime-type="image/bmp"/></media>
+        <caption>Configuring the proxy server for Internet Explorer </caption>
+              </figure>Once this process is complete you should be able to access most of the online
+              resources available through the network. (A complete list of resources available
+      through the proxy server at Rice is available at  <link url="http://proxy.rice.edu/">http://proxy.rice.edu</link>).  Once you have logged in, typically you can access
+      resources via the proxy server for up to two hours;
+       if you lose your connection, just re-enter your user name and password.</para>
+          </section>
+    <section id="idp10075936"><title>Using a Virtual Private Network (VPN)</title>
+      <para id="vpn1">Whereas the proxy server provides access to restricted Web resources by verifying your identity
+        through  
+        your login and password, a Virtual Private Network (VPN) establishes a secure connection
+        to your campus network.  With VPN, you can not only access web sites, but also transfer
+        files, run programs, and so forth.  Although a VPN may be slower than the proxy
+        server, many libraries recommend this secure, flexible approach over the proxy server.  Often more resources are available through VPN than through the proxy server, and you may have more flexibility in working with them.
+        Using VPN requires that you install special software on your computer and set up an
+        account through your institution's Information Technology group.  See, for example, the
+        description of how the <link url="http://www.rice.edu/it/resources/network/offcampus/vpn/">VPN works at Rice</link>.
+       
+      </para>
+    </section>
+  </content>
+</document>

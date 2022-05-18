@@ -1,0 +1,96 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Borrowing Resources through Interlibrary Loan: Illiad</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6cd5348d-4397-4d3c-a407-ae24def55bea</md:uuid>
+</metadata>
+  <content>
+    <para id="intro"><title>What if the library does not own the work you need?</title>
+      
+      <!-- Insert module text here -->
+      While you are conducting research, you may come across references to a work that
+      appears to be perfect for your project--except that your library does not own a copy of it. 
+      Never fear!  Through interlibrary loan (ILL), your library can probably borrow a copy and whisk it
+      to you in only a few days.  Many libraries have implemented web-based interlibrary loan
+      management systems 
+      that make it easier for the borrower to make requests and for the library to fulfill
+      them.  Such systems allow users to follow up on loan requests and even to receive articles in
+      an electronic format such as PDF.  In this module, part of a series exploring how to conduct historical research, we
+      describe the interlibrary loan process, focusing on OCLC's <link url="http://www.oclc.org/illiad/">Illiad</link>, the system used by many libraries. 
+     </para>
+    <para id="intro2"/>
+    <para id="reg1"><title>Getting started with Illiad</title>
+      
+     Many libraries highlight interlibrary loan on their home pages, typically under a heading such
+      as "services."  You can also find the interlibrary loan link by conducting a search on your
+      library's web site or while you are searching for resources in 
+      WorldCat, the online catalog that lists the holdings of thousands of libraries.    If you're a
+      first-time user of Illiad, you will need to register with the system so that the library can
+      verify that you're authorized to borrow resources and so that they can easily contact you when
+      your loan request is ready.  Registration requires only that you provide some basic
+      information and should take only a few minutes.  
+</para>
+<note id="idm8161712">The interface for Illiad may look different at different libraries, but the core functions remain the same.  For purposes of demonstration, this module focuses on the Illiad
+  interface at Fondren Library.</note>
+
+    <section id="order">
+      <title>Ordering Through Illiad</title>
+      <para id="order1">
+        Once you have registered with Illiad, you can immediately make an interlibrary loan
+        request.
+        Keep in mind that Illiad will probably not order anything that the library already owns, even if it
+        is checked out. You can request that checked-out materials be <emphasis>recalled</emphasis> through the library
+        catalog; simply look up the work by title or author, bring up the entry on the work and look
+        for the user services or recall option.</para>
+      <para id="order2"><title>What information you will need to order a book.</title>
+        First, let's check out the types
+        of information needed to order a book through Illiad. Log in by 
+        entering your ID and password into the text boxes. You will be taken to the main menu for
+        Illiad. From here you can update your user information, keep track of what you have ordered and
+        when it's due back, and order a variety of works, including documents, patents,
+        theses, books and even specific chapters from books. . For our introductory
+        purposes here we will focus on ordering a book, Douglas Sladen’s <link url="http://hdl.handle.net/1911/9189">Oriental Cairo</link>.</para>
+      <para id="order3">Select the "Request a Book" option.
+       <figure id="fig4">
+          <media id="idm7761264" alt=""><image src="../../media/lll4.bmp" mime-type="image/bmp"/></media>
+        </figure>The Loan Request Screen you see provides you with a list of everything you need to
+        locate a book through Illiad. This is where we will return once we have all of the
+        information we need to satisfy the requirements. You could order a book with just the name
+        of the author and the title. However, the more information you have the more likely it is
+        that the Interlibrary Loan department will be able locate your work. Also, the easier you make it for the staff to find
+        the work, the faster it will be processed. Make a note here of the types of information the
+        staff needs to process your order.<figure id="fig5">
+          <media id="idm492912" alt=""><image src="../../media/lll5.bmp" mime-type="image/bmp"/></media>
+          <caption>Illiad  form for interlibrary loan requests </caption>
+        </figure>
+      </para>
+      <para id="loc1"><title>Locating the information you need to order a book.</title>
+        One of the easiest ways to
+        gather all of the information you need to order a book through Illiad is to locate the book
+        through <link document="m12523">WorldCat,</link> which contains catalog records from thousands of libraries around the
+        world. You can access WorldCat by visiting the Fondren homepage, selecting the Catalog
+        option and then selecting the Other Library Option. Scroll down a bit and you will see the
+        WorldCat link. </para>
+      <para id="loc2">As an example we will bring up “Oriental Cairo” to show you where to look for
+        the information you need and then to point out a short cut.</para>
+      <para id="loc3">Enter the title in the Title textbox select the Search option.<figure id="fig6">
+          <media id="idm793536" alt=""><image src="../../media/lll6.bmp" mime-type="image/bmp"/></media>
+        <caption>Searching WorldCat</caption>
+        </figure> Select the full record for your search result. We have the author’s full name, title, date of publication, publication place and
+        publisher, everything we need to order the book through interlibrary loan. <figure id="fig8">
+          <media id="idm8400448" alt=""><image src="../../media/lll8.bmp" mime-type="image/bmp"/></media>
+          <caption>WorldCat result for "Oriental Cairo"</caption>
+        </figure>We could head back to Illiad's request page at this point to enter our information, but we
+        have one more service option to explore. Take a quick look under the Get This Item heading
+        just below the title information at the top. Notice the Interlibrary loan option. <figure id="fig9">
+          <media id="idm7218432" alt=""><image src="../../media/lll9.bmp" mime-type="image/bmp"/></media>
+        </figure>If you select this option, WorldCat will take you directly to Illiad at your
+        library and
+        automatically enter all of the information you need to order the book, including the
+        libraries in which it is available. </para>
+      <para id="loc4"><title>What next?</title>
+        All you have to do now is to wait. ILL will contact you when your
+        book arrives or with any problems they have in ordering it. If you wish to check on the
+        status of your order, just head back to the Illiad home page and select that option near the
+        bottom of the list. </para>
+    </section>
+  </content>
+</document>
